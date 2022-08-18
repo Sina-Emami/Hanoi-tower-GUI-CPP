@@ -4,7 +4,7 @@ implementation of Hanoi tower with C++
 
 <h3>Brief look at the code execution</h3>
 
-After inserting the number of 
+After inserting the number of disks:
 </br>
 
 ![when it start](img/stater.png) 
@@ -18,4 +18,4 @@ After inserting the number of
 
 </br>
 
-![finished](finished.png) 
+![finished](img/finished.png) 
